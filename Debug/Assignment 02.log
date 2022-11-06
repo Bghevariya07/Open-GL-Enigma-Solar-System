@@ -1,0 +1,72 @@
+﻿  Assignment02.c
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(21,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(60,62): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(100,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(101,34): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(101,61): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(109,44): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(109,78): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(119,43): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(123,47): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(123,84): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(157,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(158,41): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(158,63): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(158,85): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(166,51): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(166,82): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(166,113): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(176,43): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(180,54): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(180,88): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(180,122): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(199,41): warning C4244: 'function': conversion from 'GLfloat' to 'int', possible loss of data
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(199,71): warning C4244: 'function': conversion from 'GLfloat' to 'int', possible loss of data
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(203,26): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(203,31): warning C4305: 'function': truncation from 'double' to 'float'
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(203,47): warning C4244: 'function': conversion from 'GLfloat' to 'int', possible loss of data
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(204,26): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(204,47): warning C4244: 'function': conversion from 'GLfloat' to 'int', possible loss of data
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(232,38): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(232,65): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(232,92): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(233,44): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(233,76): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(233,108): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(268,21): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(269,30): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(269,50): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(271,30): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(271,50): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(273,30): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(273,50): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(264,1): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(296,21): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(297,30): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(297,50): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(297,70): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(299,30): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(299,50): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(299,70): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(301,30): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(301,50): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(301,70): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(292,1): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(342,22): warning C4473: 'fscanf_s' : not enough arguments passed for format string
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(342,22): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(342,22): message : the missing variadic argument 2 is required by format string '%c'
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(342,22): message : this argument is used as a buffer size
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(365,29): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(365,46): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(365,63): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(336,1): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char [1]'
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(471,26): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(566,15): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(571,15): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(576,15): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(581,15): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(586,15): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(591,15): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(659,21): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Assignment02.c(665,28): warning C4028: formal parameter 1 different from declaration
+  Assignment 02.vcxproj -> E:\FALL 2022\CSCI 3161\Assignment 02\Assignment 02\Debug\Assignment 02.exe
