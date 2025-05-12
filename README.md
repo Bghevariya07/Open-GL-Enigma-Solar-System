@@ -6,7 +6,7 @@ OpenGL Enigma Solar System is a 3D graphical simulation of the solar system deve
 
 ## Project Preview
 
-![Solar System Simulation Preview](./Enigma-Solar System.png)
+![Solar System Simulation Preview](./enigma-solar-system.png)
 
 ## Tech Stack
 
